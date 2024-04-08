@@ -31,6 +31,7 @@
     "@lingui/cli": "^4.8.0",
     "@lingui/conf": "^4.8.0",
     "@lingui/core": "^4.8.0",
+    "@lingui/format-json": "^4.8.0",
     "@lingui/vite-plugin": "^4.8.0",
     "@types/node": "^20.12.5",
     "@types/react": "^18.2.66",

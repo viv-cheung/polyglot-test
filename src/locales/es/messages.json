@@ -1,0 +1,24 @@
+{
+  "mAYvqA": {
+    "translation": "",
+    "message": "Hello!",
+    "comments": [],
+    "origin": [
+      [
+        "src/App.tsx",
+        67
+      ]
+    ]
+  },
+  "OZcTKR": {
+    "translation": "",
+    "message": "This is a test application.",
+    "comments": [],
+    "origin": [
+      [
+        "src/App.tsx",
+        70
+      ]
+    ]
+  }
+}

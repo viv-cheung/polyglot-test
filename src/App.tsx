@@ -21,7 +21,7 @@ import { useEffect } from 'react'
 const DEFAULT_LOCALE = 'en'
 
 const dynamicActivate = async (locale: string) => {
-  const { messages } = await import(`./locales/${locale}/messages.po`)
+  const { messages } = await import(`./locales/${locale}/messages.json`)
   i18n.load(locale, messages)
   i18n.activate(locale)
 }

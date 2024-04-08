@@ -58,6 +58,9 @@ devDependencies:
   '@lingui/core':
     specifier: ^4.8.0
     version: 4.8.0
+  '@lingui/format-json':
+    specifier: ^4.8.0
+    version: 4.8.0(typescript@5.2.2)
   '@lingui/vite-plugin':
     specifier: ^4.8.0
     version: 4.8.0(typescript@5.2.2)(vite@5.2.0)
@@ -954,6 +957,16 @@ packages:
       '@babel/runtime': 7.24.4
       '@lingui/message-utils': 4.8.0
       unraw: 3.0.0
+
+  /@lingui/format-json@4.8.0(typescript@5.2.2):
+    resolution: {integrity: sha512-ltSlPibgZgPUr9cuWkL/SbYrb4JcHAMSq6kY7H91l6zoxTpsli5Or4z+QGZItydJ7uwNyXvxCK9Ep06DVuBU+g==}
+    engines: {node: '>=16.0.0'}
+    dependencies:
+      '@lingui/conf': 4.8.0(typescript@5.2.2)
+      ramda: 0.28.0
+    transitivePeerDependencies:
+      - typescript
+    dev: true
 
   /@lingui/format-po@4.8.0(typescript@5.2.2):
     resolution: {integrity: sha512-EnVZInemKaVChkh/kecZqxktwFgsb5dpF9cAm6FVH+xdKvVLKViWPcZSUPR2y4I3YS8eAtfpBapwoyAVeQo68A==}
@@ -3373,6 +3386,10 @@ packages:
 
   /ramda@0.27.2:
     resolution: {integrity: sha512-SbiLPU40JuJniHexQSAgad32hfwd+DRUdwF2PlVuI5RZD0/vahUco7R8vD86J/tcEKKF9vZrUVwgtmGCqlCKyA==}
+    dev: true
+
+  /ramda@0.28.0:
+    resolution: {integrity: sha512-9QnLuG/kPVgWvMQ4aODhsBUFKOUmnbUnsSXACv+NCQZcHbeb+v8Lodp8OVxtRULN1/xOyYLLaL6npE6dMq5QTA==}
     dev: true
 
   /react-dom@18.2.0(react@18.2.0):
