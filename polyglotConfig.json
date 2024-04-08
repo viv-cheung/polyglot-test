@@ -1,0 +1,9 @@
+{
+  "tokensPerWord": 2,
+  "maxTokensPerBatch": 50000,
+  "originLanguage": "en",
+  "languages": ["fr", "es", "de"],
+  "rules": "Do not translate 'Polyglot' and keep it the same name in the original language.",
+  "test": true,
+  "translationPaths": ["src/locales/*"]
+}
