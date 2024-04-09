@@ -1,0 +1,126 @@
+{
+    "Polyglot": {
+        "3ta9QZ": {
+            "translation": "Traducción avanzada con integración sencilla en Github. Otro test",
+            "message": "Traducción avanzada con integración sencilla en Github.",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 80
+                }
+            }
+        },
+        "QsDjlD": {
+            "translation": "Manzana",
+            "message": "Manzana",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 87
+                }
+            }
+        },
+        "ehaZ+s": {
+            "translation": "Coche",
+            "message": "Coche",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 89
+                }
+            }
+        },
+        "ZduPP3": {
+            "translation": "Cambie el idioma arriba para ver el cambio de texto.",
+            "message": "Cambie el idioma arriba para ver el cambio de texto.",
+            "origin": {
+                "0": {
+                    "0": "src/App.tsx",
+                    "1": 74
+                },
+                "obsolete": true
+            }
+        },
+        "halrRh": {
+            "translation": "Feliz",
+            "message": "Feliz",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 92
+                }
+            }
+        },
+        "GpMARg": {
+            "translation": "Amor",
+            "message": "Amor",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 93
+                }
+            }
+        },
+        "iQ2nLC": {
+            "translation": "Luna",
+            "message": "Luna",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 86
+                }
+            }
+        },
+        "JiA8JY": {
+            "translation": "Nieve",
+            "message": "Nieve",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 91
+                }
+            }
+        },
+        "D89zck": {
+            "translation": "Sol",
+            "message": "Sol",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 85
+                }
+            }
+        },
+        "OZcTKR": {
+            "translation": "Esta es una aplicación de prueba.",
+            "message": "Esta es una aplicación de prueba.",
+            "origin": {
+                "0": {
+                    "0": "src/App.tsx",
+                    "1": 70
+                },
+                "obsolete": true
+            }
+        },
+        "/dCWE0": {
+            "translation": "Árbol",
+            "message": "Árbol",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 88
+                }
+            }
+        },
+        "Xy71ST": {
+            "translation": "Paraguas",
+            "message": "Paraguas",
+            "origin": {
+                "0": {
+                    "0": "src/Content.tsx",
+                    "1": 90
+                }
+            }
+        }
+    }
+}
