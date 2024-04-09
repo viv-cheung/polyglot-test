@@ -1,4 +1,15 @@
 {
+  "ZduPP3": {
+    "translation": "",
+    "message": "Change the language above to see the text change.",
+    "comments": [],
+    "origin": [
+      [
+        "src/App.tsx",
+        74
+      ]
+    ]
+  },
   "mAYvqA": {
     "translation": "",
     "message": "Hello!",

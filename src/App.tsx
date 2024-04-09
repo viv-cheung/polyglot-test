@@ -70,7 +70,9 @@ function App() {
               <Trans>This is a test application.</Trans>
             </CardDescription>
           </CardHeader>
-          <CardContent></CardContent>
+          <CardContent>
+            <Trans>Change the language above to see the text change.</Trans>
+          </CardContent>
         </Card>
       </div>
     </I18nProvider>
