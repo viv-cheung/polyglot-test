@@ -1,0 +1,10 @@
+{
+    "Greeting": "Hola, bienvenido a Polyglot!",
+    "Menu": {
+        "Home": "Inicio",
+        "About": "Acerca de",
+        "Services": "Servicios",
+        "Contact": "Contacto"
+    },
+    "Footer": "Todos los derechos reservados."
+}
