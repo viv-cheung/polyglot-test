@@ -1,0 +1,13 @@
+{
+    "3ta9QZ": {
+        "translation": "Traduction avancée avec intégration facile de Github. Un autre test. Le soleil brille !!",
+        "message": "Traduction avancée avec intégration facile de Github.",
+        "comments": [],
+        "origin": [
+            [
+                "src/Content.tsx",
+                80
+            ]
+        ]
+    }
+}
