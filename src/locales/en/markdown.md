@@ -3,7 +3,7 @@ sidebar_label: Checkout
 ---
 
 # Overview
-The checkout modal enables developers to easily facilitate cryptocurrency payments.
+The checkout modal enables developers to easily facilitate cryptocurrency payments. Test
 
 <div class="text--center">
   <img src="/img/kit/checkout-modal.png" />
