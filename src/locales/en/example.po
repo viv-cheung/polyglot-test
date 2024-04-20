@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: \n"
 
 #: src/components/SigningOptions/SigningOptions.tsx:260
-msgid "…or <0>enter a recovery code.</0>"
+msgid "…or <0>enter a recovery code.</0> Test"
 msgstr "…or <0>enter a recovery code.</0>"
 
 #: src/components/ScanQR/ScanQR.tsx:150
