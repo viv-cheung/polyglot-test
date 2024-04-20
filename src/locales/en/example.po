@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-09-26 15:40-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/SigningOptions/SigningOptions.tsx:260
+msgid "…or <0>enter a recovery code.</0>"
+msgstr "…or <0>enter a recovery code.</0>"
+
+#: src/components/ScanQR/ScanQR.tsx:150
+msgid "\"{data}\" is not a proper WalletConnect URI"
+msgstr "\"{data}\" is not a proper WalletConnect URI"
+
+#: src/routes/settings/SettingsGuardRoute.tsx:276
+msgid "(Already used)"
+msgstr "(Already used)"
+
+#: src/routes/wallet/send/SelectCollectibles.tsx:56
+#: src/routes/wallet/WalletCollectionDetailsRoute.tsx:319
+msgid "{0, plural, one {# Collectible} other {# Collectibles}}"
+msgstr "{0, plural, one {# Collectible} other {# Collectibles}}"
+
+#: src/components/CollectionRow/CollectionRow.tsx:30
+#: src/components/items/HiddenCollectionItem.tsx:41
+msgid "{0, plural, one {# Item} other {# Items}}"
+msgstr "{0, plural, one {# Item} other {# Items}}"
+
+#: src/routes/wallet/send/SelectCollectibles.tsx:55
+#: src/routes/wallet/WalletCollectionDetailsRoute.tsx:318
+msgid "{0, plural, one {# Result} other {# Results}}"
+msgstr "{0, plural, one {# Result} other {# Results}}"
+
+#: src/routes/settings/SettingsSessionsRoute.tsx:166
+msgid "{0, plural, one {Sign out session} other {Sign out # sessions}}"
+msgstr "{0, plural, one {Sign out session} other {Sign out # sessions}}"
+
+#: src/routes/signing/SignTransactionRoute.tsx:228
+msgid "{0, plural, one {This collectible is available for purchase directly via Credit/Debit Card.} other {These collectibles are available for purchase directly via Credit/Debit Card.}}"
+msgstr "{0, plural, one {This collectible is available for purchase directly via Credit/Debit Card.} other {These collectibles are available for purchase directly via Credit/Debit Card.}}"
+
+#: src/components/ContactAddressInput/ContactAddressInput.tsx:104
+#: src/routes/contacts/CreateContact.tsx:85
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/UserMenuDropdown/UserMenuDropdown.tsx:231
+msgid "{0} Networks Connected"
+msgstr "{0} Networks Connected"
+
+#: src/routes/contacts/ContactAddressInput.tsx:101
+#~ msgid "{networkName} Address (0x…) or ENS name"
+#~ msgstr "{networkName} Address (0x…) or ENS name"
+
+#: src/routes/settings/SettingsSessionsRoute.tsx:71
+msgid "{removeSessionCount, plural, one {Successfully removed device} other {Successfully removed # devices}}"
+msgstr "{removeSessionCount, plural, one {Successfully removed device} other {Successfully removed # devices}}"
+
+#: src/components/ContactList/ContactList.tsx:34
+msgid "{resultCount, plural, one {# Result} other {# Results}}"
+msgstr "{resultCount, plural, one {# Result} other {# Results}}"
+
+#: src/routes/wallet/TooManyDevices.tsx:24
+msgid "<0>{0}</0> active sessions."
+msgstr "<0>{0}</0> active sessions."
+
+#: src/routes/settings/SettingsGuardRoute.tsx:151
+#~ msgid "2FA Authentication"
+#~ msgstr "2FA Authentication"
+
+#: src/routes/settings/SettingsGuardRoute.tsx:86
+msgid "2FA Enabled"
+msgstr "2FA Enabled"
+
+#: src/components/GroupByDate/GroupByDate.tsx:68
+msgid "A Long time ago"
+msgstr "A Long time ago"
+
+#: src/routes/settings/SettingsProfileRoute.tsx:33
+msgid "Account"
+msgstr "Account"
+
+#: src/routes/auth/AccountRecoveryRoute.tsx:22
+#: src/routes/auth/SignInForm.tsx:422
+#: src/routes/settings/recovery/SettingsRecoveryRoute.tsx:117
+#: src/routes/settings/SettingsIndexRoute.tsx:105
+msgid "Account Recovery"
+msgstr "Account Recovery"
