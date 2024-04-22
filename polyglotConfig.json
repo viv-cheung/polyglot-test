@@ -1,6 +1,6 @@
 {
   "originLanguage": "en",
-  "languages": ["fr", "ja"],
+  "languages": ["fr"],
   "rules": "Do not translate 'Polyglot' and keep it the same name in the original language.",
   "translationPaths": ["src/locales/*"]
 }
