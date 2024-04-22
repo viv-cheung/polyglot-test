@@ -1,0 +1,24 @@
+{
+  "3ta9QZ": {
+    "translation": "Advanced translation with easy Github integration. Another test. When the sun don't rain",
+    "message": "Advanced translation with easy Github integration.",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        80
+      ]
+    ]
+  },
+  "QsDjlD": {
+    "translation": "Hello 123",
+    "message": "Apple",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        87
+      ]
+    ]
+  }
+}
