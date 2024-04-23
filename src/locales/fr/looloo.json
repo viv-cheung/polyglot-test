@@ -1,0 +1,24 @@
+{
+  "3ta9QZ": {
+    "translation": "Traduction avancée avec intégration facile de Github. Un autre test. Quand le soleil ne brille pas",
+    "message": "Traduction avancée avec intégration facile de Github.",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        80
+      ]
+    ]
+  },
+  "QsDjlD": {
+    "translation": "Bonjour, c'est qui ? Nouveau téléphone",
+    "message": "pomme",
+    "comments": [],
+    "origin": [
+      [
+        "src/Content.tsx",
+        87
+      ]
+    ]
+  }
+}
